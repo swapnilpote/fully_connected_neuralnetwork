@@ -1,4 +1,5 @@
 # Ignored files
+.gitignore
 .DS_Store
 
 # Ignored folders
